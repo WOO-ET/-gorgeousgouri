@@ -1,5 +1,4 @@
 # TEST3
-<!doctype html>
 <html lang="ko">
   <body bgcolor='gray'>
     <center>
